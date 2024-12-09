@@ -6,7 +6,7 @@ body {
   }
   
   header {
-    background-color: #007bff;
+    background-color: #13457d;
     color: white;
     text-align: center;
     padding: 20px;
@@ -42,7 +42,7 @@ body {
   
   button {
     padding: 10px;
-    background-color: #007bff;
+    background-color: #13457d;
     color: white;
     border: none;
     cursor: pointer;
